@@ -1,5 +1,3 @@
-0-create_array.c
-
 #include "main.h"
 #include <stdlib.h>
 /**
